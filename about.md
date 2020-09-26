@@ -1,10 +1,10 @@
 ---
 bg: "PD.jpg"
 layout: page
-title: "About"
+title: ""
 crawlertitle: "Why and how this blog was created"
 permalink: /about/
-summary: "About this blog"
+summary: ""
 active: about
 ---
 
