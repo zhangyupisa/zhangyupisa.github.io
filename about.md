@@ -1,10 +1,10 @@
 ---
-bg: "PD.jpg"
+bg: "YSK.jpg"
 layout: page
-title: "ABOUT"
+title: "关于"
 crawlertitle: "Why and how this blog was created"
 permalink: /about/
-summary: ""
+summary: "无名小卒"
 active: about
 ---
 
