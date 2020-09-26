@@ -2,9 +2,9 @@
 bg: "FW.jpg"
 layout: page
 permalink: /posts/
-title: "Article"
+title: "文章"
 crawlertitle: "All articles"
-summary: "Not just for memory"
+summary: "Just for memory"
 active: archive
 ---
 
