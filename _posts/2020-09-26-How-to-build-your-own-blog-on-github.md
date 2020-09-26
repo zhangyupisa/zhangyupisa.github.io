@@ -20,7 +20,7 @@ author: lc
 
 ### Voyager
 
-[![Voyager]({{ site.images | relative_url }}/Voyager.png)]({{ site.images | relative_url }}/Voyager.png)
+[![Voyager]({{ site.images | relative_url }}/Voyager.jpg)]({{ site.images | relative_url }}/Voyager.jpg)
 
 将解压后的文件复制到仓库中，并push。（可以忽略其中的.jekyll-cache文件）。用浏览器打开yourname.github.io，就可以看到博客的雏形了。
 
