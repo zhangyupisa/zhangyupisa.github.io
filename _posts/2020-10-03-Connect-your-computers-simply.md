@@ -3,7 +3,7 @@ bg: "sp.jpg"
 layout: post
 title:  windows电脑如何实现简单的双屏互动
 crawlertitle: 双屏互动
-summary: Description for this article
+summary: How to connect your computers simply
 date:   2020-10-03
 categories: posts
 tags: ['生产力']
